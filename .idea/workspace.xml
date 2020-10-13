@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23448f9f-1c4f-4732-ba72-bcf237da01ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="crechecalendar2.com" id="4e63dd6a-23d8-4d9c-9888-ebd537e12f3b" name="crechecalendar2.com" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/altorouter/altorouter" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1hx2MggHLrZkdW0ZTO8wTGemO22" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Constants" value="false" />
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/controllers" />
+      <recent name="$PROJECT_DIR$/config" />
+      <recent name="$PROJECT_DIR$/elements" />
+      <recent name="$PROJECT_DIR$/views" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/public_www/index.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23448f9f-1c4f-4732-ba72-bcf237da01ec" name="Default Changelist" comment="" />
+      <created>1600938375442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600938375442</updated>
+      <workItem from="1600938376481" duration="6992000" />
+      <workItem from="1600947848196" duration="40470000" />
+      <workItem from="1601014359670" duration="25665000" />
+      <workItem from="1601106876611" duration="41999000" />
+      <workItem from="1601186157963" duration="10146000" />
+      <workItem from="1601318679635" duration="5072000" />
+      <workItem from="1601359046831" duration="35741000" />
+      <workItem from="1601448699548" duration="34513000" />
+      <workItem from="1601710473846" duration="2236000" />
+      <workItem from="1602317766759" duration="40711000" />
+      <workItem from="1602406678150" duration="42872000" />
+      <workItem from="1602539746566" duration="14791000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1748" y="237" width="724" height="624" key="#Inspections" timestamp="1600981421205">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1748" y="237" key="#Inspections/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1600981421205" />
+    <state x="1748" y="237" width="724" height="624" key="#Inspections/1280.0.1680.1050/2960.0.1280.1024/0.33.1280.991@1280.0.1680.1050" timestamp="1600947704446" />
+    <state x="1715" y="183" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600992084273">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1715" y="183" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1600992084273" />
+    <state x="1715" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/1280.0.1680.1050/2960.0.1280.1024/0.33.1280.991@1280.0.1680.1050" timestamp="1600947599354" />
+    <state x="1871" y="407" width="487" height="300" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1600947979943">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1871" y="407" width="487" height="300" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1280.0.1680.1050/2960.0.1280.1024/0.33.1280.991@1280.0.1680.1050" timestamp="1600947979943" />
+    <state x="1856" y="436" width="517" height="276" key="ComposerInitDialogKey" timestamp="1600939318241">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1856" y="436" width="517" height="276" key="ComposerInitDialogKey/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1600939318241" />
+    <state x="1897" y="317" width="424" height="521" key="FileChooserDialogImpl" timestamp="1602385841647">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1897" y="317" width="424" height="521" key="FileChooserDialogImpl/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1602385841647" />
+    <state width="1634" height="21" key="GridCell.Tab.0.bottom" timestamp="1602480998679">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="21" key="GridCell.Tab.0.bottom/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1602480998679" />
+    <state width="1624" height="315" key="GridCell.Tab.0.bottom/1280.0.1680.1050/2960.0.1280.1024/0.33.1280.991@1280.0.1680.1050" timestamp="1601036548803" />
+    <state width="1634" height="21" key="GridCell.Tab.0.center" timestamp="1602480998679">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="21" key="GridCell.Tab.0.center/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1602480998679" />
+    <state width="1624" height="315" key="GridCell.Tab.0.center/1280.0.1680.1050/2960.0.1280.1024/0.33.1280.991@1280.0.1680.1050" timestamp="1601036548803" />
+    <state width="1634" height="21" key="GridCell.Tab.0.left" timestamp="1602480998679">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="21" key="GridCell.Tab.0.left/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1602480998679" />
+    <state width="1624" height="315" key="GridCell.Tab.0.left/1280.0.1680.1050/2960.0.1280.1024/0.33.1280.991@1280.0.1680.1050" timestamp="1601036548803" />
+    <state width="1634" height="21" key="GridCell.Tab.0.right" timestamp="1602480998679">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="21" key="GridCell.Tab.0.right/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1602480998679" />
+    <state width="1624" height="315" key="GridCell.Tab.0.right/1280.0.1680.1050/2960.0.1280.1024/0.33.1280.991@1280.0.1680.1050" timestamp="1601036548803" />
+    <state width="1634" height="21" key="GridCell.Tab.1.bottom" timestamp="1602480998679">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="21" key="GridCell.Tab.1.bottom/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1602480998679" />
+    <state width="1624" height="315" key="GridCell.Tab.1.bottom/1280.0.1680.1050/2960.0.1280.1024/0.33.1280.991@1280.0.1680.1050" timestamp="1601036548804" />
+    <state width="1634" height="21" key="GridCell.Tab.1.center" timestamp="1602480998679">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="21" key="GridCell.Tab.1.center/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1602480998679" />
+    <state width="1624" height="315" key="GridCell.Tab.1.center/1280.0.1680.1050/2960.0.1280.1024/0.33.1280.991@1280.0.1680.1050" timestamp="1601036548803" />
+    <state width="1634" height="21" key="GridCell.Tab.1.left" timestamp="1602480998679">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="21" key="GridCell.Tab.1.left/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1602480998679" />
+    <state width="1624" height="315" key="GridCell.Tab.1.left/1280.0.1680.1050/2960.0.1280.1024/0.33.1280.991@1280.0.1680.1050" timestamp="1601036548803" />
+    <state width="1634" height="21" key="GridCell.Tab.1.right" timestamp="1602480998679">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="21" key="GridCell.Tab.1.right/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1602480998679" />
+    <state width="1624" height="315" key="GridCell.Tab.1.right/1280.0.1680.1050/2960.0.1280.1024/0.33.1280.991@1280.0.1680.1050" timestamp="1601036548803" />
+    <state width="1634" height="21" key="GridCell.Tab.2.bottom" timestamp="1602480998679">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="21" key="GridCell.Tab.2.bottom/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1602480998679" />
+    <state width="1624" height="315" key="GridCell.Tab.2.bottom/1280.0.1680.1050/2960.0.1280.1024/0.33.1280.991@1280.0.1680.1050" timestamp="1601036548804" />
+    <state width="1634" height="21" key="GridCell.Tab.2.center" timestamp="1602480998679">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="21" key="GridCell.Tab.2.center/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1602480998679" />
+    <state width="1624" height="315" key="GridCell.Tab.2.center/1280.0.1680.1050/2960.0.1280.1024/0.33.1280.991@1280.0.1680.1050" timestamp="1601036548804" />
+    <state width="1634" height="21" key="GridCell.Tab.2.left" timestamp="1602480998679">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="21" key="GridCell.Tab.2.left/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1602480998679" />
+    <state width="1624" height="315" key="GridCell.Tab.2.left/1280.0.1680.1050/2960.0.1280.1024/0.33.1280.991@1280.0.1680.1050" timestamp="1601036548804" />
+    <state width="1634" height="21" key="GridCell.Tab.2.right" timestamp="1602480998679">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="21" key="GridCell.Tab.2.right/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1602480998679" />
+    <state width="1624" height="315" key="GridCell.Tab.2.right/1280.0.1680.1050/2960.0.1280.1024/0.33.1280.991@1280.0.1680.1050" timestamp="1601036548804" />
+    <state x="1843" y="257" width="543" height="575" key="NewPhpClassDialog" timestamp="1601470177295">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1843" y="257" key="NewPhpClassDialog/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1601470177295" />
+    <state x="1843" y="257" width="543" height="575" key="NewPhpClassDialog/1280.0.1680.1050/2960.0.1280.1024/0.33.1280.991@1280.0.1680.1050" timestamp="1600946213951" />
+    <state x="1916" y="446" width="397" height="158" key="NewPhpFileDialog" timestamp="1602442268648">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1916" y="446" width="397" height="158" key="NewPhpFileDialog/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1602442268648" />
+    <state x="1916" y="446" width="397" height="158" key="NewPhpFileDialog/1280.0.1680.1050/2960.0.1280.1024/0.33.1280.991@1280.0.1680.1050" timestamp="1601137241035" />
+    <state x="1609" y="176" width="1022" height="737" key="SettingsEditor" timestamp="1602558440972">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1609" y="176" width="1022" height="737" key="SettingsEditor/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1602558440972" />
+    <state x="1609" y="176" width="1022" height="737" key="SettingsEditor/1280.0.1680.1050/2960.0.1280.1024/0.33.1280.991@1280.0.1680.1050" timestamp="1600948216725" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1600958488487">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/1280.0.1680.1050/2960.0.1280.1024/0.33.1280.991@1280.0.1680.1050" timestamp="1600958488487" />
+    <state x="1703" y="180" width="824" height="691" key="com.intellij.database.dbimport.ImportDialog" timestamp="1602385871648">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1703" y="180" width="824" height="691" key="com.intellij.database.dbimport.ImportDialog/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1602385871648" />
+    <state x="1853" y="330" width="524" height="391" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1602388156408">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1853" y="330" width="524" height="391" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1602388156408" />
+    <state x="2018" y="466" width="204" height="118" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1601368007651">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2018" y="466" width="204" height="118" key="com.intellij.database.run.ParametersPanel.Standalone/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1601368007651" />
+    <state x="1380" y="127" width="1480" height="790" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601187171308">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1380" y="127" width="1480" height="790" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1601187171308" />
+    <state x="1380" y="127" width="1480" height="790" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1601237731119">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1380" y="127" width="1480" height="790" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1601237731119" />
+    <state x="1842" y="346" width="546" height="542" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1602410041360">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1842" y="346" key="com.jetbrains.php.test.PhpNewTestDialog/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1602410041360" />
+    <state x="1842" y="346" width="546" height="542" key="com.jetbrains.php.test.PhpNewTestDialog/1280.0.1680.1050/2960.0.1280.1024/0.33.1280.991@1280.0.1680.1050" timestamp="1600956356663" />
+    <state x="1815" y="121" width="620" height="801" key="find.popup" timestamp="1602378404042">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1815" y="121" width="620" height="801" key="find.popup/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1602378404042" />
+    <state x="1831" y="293" width="567" height="465" key="refactoring.ChangeSignatureDialog" timestamp="1601050173041">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1831" y="293" width="567" height="465" key="refactoring.ChangeSignatureDialog/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1601050173041" />
+    <state x="1784" y="236" key="run.anything.popup" timestamp="1602374892750">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1784" y="236" key="run.anything.popup/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1602374892750" />
+    <state x="1783" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1602375207530">
+      <screen x="1280" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1783" y="243" width="672" height="678" key="search.everywhere.popup/1280.0.1680.1050/2960.0.1280.1024/0.27.1280.990@1280.0.1680.1050" timestamp="1602375207530" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/views/deleteSection.php</url>
+          <line>54</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

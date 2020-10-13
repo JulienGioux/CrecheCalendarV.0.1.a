@@ -1,0 +1,39 @@
+
+.logoFont {
+    font-family: 'Love Ya Like A Sister', cursive;
+}
+.FontSize2rem {
+    font-size: 2rem;
+}
+.FontSize1-6rem {
+    font-size: 1.6rem;
+}
+.fontColorYellow {
+    color: white;
+}
+.bgColorLight {
+    background-color: #006989;
+}
+.bgColorLightPlus {
+    background-color:#62BBC1;
+}
+
+.sidenav .sidenav-header .sidenav-logo {
+    height: 8rem;
+}
+.v-center {
+    vertical-align: -0.4em;
+}
+.fx-space-around {
+    justify-content: space-around;
+}
+.link {
+    text-decoration: underline;
+    text-decoration-style: solid;
+    color: #006989;
+}
+.link:hover {
+    text-decoration: underline;
+    text-decoration-style: solid;
+    color: #053256;
+}

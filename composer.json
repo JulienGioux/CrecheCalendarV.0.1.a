@@ -1,0 +1,26 @@
+{
+  "name": "vendor_name/crechecalendar_v0.1a",
+  "version": "0.1-dev",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "jgx",
+      "email": "jules.gioux@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "CrecheCalendar\\": "src/",
+      "CrecheCalendar\\Calendar\\": "src/Calendar"
+    }
+  },
+  "require-dev": {
+    "symfony/var-dumper": "^5.1"
+  },
+  "require": {
+    "ext-pdo": "*",
+    "altorouter/altorouter": "2.0.1"
+  }
+}

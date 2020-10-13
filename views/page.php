@@ -1,0 +1,2 @@
+<?php
+dump($_SESSION);
